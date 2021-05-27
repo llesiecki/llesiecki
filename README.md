@@ -16,3 +16,6 @@ OpenCraft is a Minecraft younger cousin (much younger)
 ## [RC-VideoStreamTank](https://github.com/llesiecki/RC-VideoStreamTank)
 Remote Controlled (RC) tank fitted with a live camera.  
 ![RC-VideoStreamTank](https://user-images.githubusercontent.com/37122127/119276177-ac8c1d00-bc19-11eb-803a-0365740db262.jpg)
+## Gauss Rifle
+(also known as a coilgun) It is a type of weapon that uses a really strong magnetic field instead of explosives to accelerate the bullet. The bullet is made of steel, but it can be any ferromagnetic material. In this case it's the tip of a thick nail 4 cm long. It has a bank of three capacitors (450V, 1900uF) for powering the coil. After pulling the trigger, the thyristor is powered (1600V, 1.2kA) and a large current flows through it from the capacitor bank to the coil. When the coil is powered, it attracts the bullet and accelerates it to high speed. In the meantime, the capacitor bank is discharging, so the coil is no longer powered, and the bullet will not be braked by it. The rifle has a Li-ion battery (14.8V, 4.4Ah) which is used to charge the capacitor bank. Recharging process is performed by a self-made DC-DC step up converter, which is able to charge the capacitors up to 400V.
+![Gauss Rifle](https://user-images.githubusercontent.com/37122127/119909077-50e0cd00-bf54-11eb-8a49-39c21dad431c.jpg)
