@@ -6,10 +6,12 @@ I also like to write in Python because it’s so flexible, and it’s pretty eas
 # My Projects
 ## [Car(d)Battle](https://github.com/llesiecki/Car-d-Battle)
 A card game focused on car parameters. 
-![Car(d)Battle](https://user-images.githubusercontent.com/37122127/119583742-873d1180-bdc7-11eb-8389-6f67f44bfbe9.png)
+![Car(d)Battle](https://user-images.githubusercontent.com/37122127/120085423-43545000-c0d8-11eb-9db7-61e4e7824eb5.gif)
+<img src="https://user-images.githubusercontent.com/37122127/119583742-873d1180-bdc7-11eb-8389-6f67f44bfbe9.png" width="427" height="240">
 ## [OpenCraft](https://github.com/llesiecki/OpenCraft)
 OpenCraft is a Minecraft younger cousin (much younger)  
-![OpenCraft](https://user-images.githubusercontent.com/37122127/119279525-93409c00-bc2c-11eb-8a84-c1f4793359d7.png)
+![OpenCraft](https://user-images.githubusercontent.com/37122127/120401722-d7c0eb80-c340-11eb-97a0-6476b7899fdb.gif)
+<img src="https://user-images.githubusercontent.com/37122127/119279525-93409c00-bc2c-11eb-8a84-c1f4793359d7.png" width="427" height="240">
 ## [Electric Go-Kart](https://github.com/llesiecki/Microcontrollers)
 ![go_kart_photo-1](https://user-images.githubusercontent.com/37122127/119739391-756c7480-be82-11eb-98d0-3987bba829e4.jpg)
 ![go_kart_photo-2](https://user-images.githubusercontent.com/37122127/119739400-79989200-be82-11eb-84da-e1c0915e7c00.jpg)
