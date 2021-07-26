@@ -13,8 +13,8 @@ OpenCraft is a Minecraft younger cousin (much younger)
 ![OpenCraft](https://user-images.githubusercontent.com/37122127/120401722-d7c0eb80-c340-11eb-97a0-6476b7899fdb.gif)
 <img src="https://user-images.githubusercontent.com/37122127/119279525-93409c00-bc2c-11eb-8a84-c1f4793359d7.png" width="427" height="240">
 ## [Electric Go-Kart](https://github.com/llesiecki/Microcontrollers)
-![go_kart_photo-1](https://user-images.githubusercontent.com/37122127/119739391-756c7480-be82-11eb-98d0-3987bba829e4.jpg)
-![go_kart_photo-2](https://user-images.githubusercontent.com/37122127/119739400-79989200-be82-11eb-84da-e1c0915e7c00.jpg)
+![go_kart_photo-1](https://user-images.githubusercontent.com/37122127/126917548-9342f97b-d21c-4d45-8655-7d04908fee9e.jpg)
+![go_kart_photo-2](https://user-images.githubusercontent.com/37122127/126917552-bf20f786-02de-42e2-8639-851dd741d279.jpg)
 ## [RC-VideoStreamTank](https://github.com/llesiecki/RC-VideoStreamTank)
 Remote Controlled (RC) tank fitted with a live camera.  
 ![RC-VideoStreamTank](https://user-images.githubusercontent.com/37122127/119276177-ac8c1d00-bc19-11eb-803a-0365740db262.jpg)
